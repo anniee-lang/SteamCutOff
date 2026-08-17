@@ -1,0 +1,9 @@
+{
+    "Id": "SteamCutOff",
+    "DisplayName": "SteamCutOff",
+    "Author": "Anniee",
+    "Version": "1.1.0",
+    "ManagerVersion": "0.22.0",
+    "AssemblyName": "SteamCutOff.dll",
+    "EntryMethod": "SteamCutOff.Main.Load"
+}
